@@ -1,0 +1,5 @@
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain2\VanillaMain2\bin\Debug\VanillaMain2.exe
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain2\VanillaMain2\bin\Debug\VanillaMain2.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain2\VanillaMain2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain2\VanillaMain2\obj\x86\Debug\VanillaMain2.exe
+C:\Users\yana\documents\visual studio 2010\Projects\VanillaMain2\VanillaMain2\obj\x86\Debug\VanillaMain2.pdb
